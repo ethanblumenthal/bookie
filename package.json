@@ -1,0 +1,16 @@
+{
+  "name": "Bookie",
+  "version": "1.0.0",
+  "description": "App for keeping track of your reading list.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Ethan Blumenthal",
+  "license": "ISC"
+}
